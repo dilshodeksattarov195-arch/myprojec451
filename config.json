@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerperify",
+        "uuid": 1701623,
+        "checksum": "uggip5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
